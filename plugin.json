@@ -1,0 +1,8 @@
+{
+  "name": "cfo-cash-management",
+  "version": "1.0.0",
+  "description": "Four skills: cash forecast, changes since last time, comparing conditions, and options for a shortfall. Includes a Python script that calculates cash day by day.",
+  "author": "p-take55",
+  "license": "MIT",
+  "homepage": "https://github.com/p-take55/aachat-cfo"
+}
